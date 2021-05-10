@@ -163,9 +163,7 @@ font-family: 'Caveat Brush', cursive;
     }
 
 @media screen and (max-width: 680px) {
-    nav h1{
-    font-size: 30spx;
-}
+ 
 
     .menuUl li{
         opacity: 0;
@@ -183,7 +181,7 @@ font-family: 'Caveat Brush', cursive;
         grid-column: span 2;
     }
     .right, .left{
-        width: 300px;
+        width: 280px;
     }
 
     nav{
@@ -198,7 +196,7 @@ font-family: 'Caveat Brush', cursive;
         
     }
     nav h1{
-        font-size: 7vh;
+        font-size: 3vh;
     }
     
     .menuUl{
