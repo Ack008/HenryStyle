@@ -13,7 +13,6 @@ body{
 }
 
 nav{
-    margin-bottom: 10px;
     top:0;
     background-color: rgb(4, 21, 37);
     color: white;
@@ -23,6 +22,7 @@ nav{
     position:sticky ;
     width: 100%;
     padding: 1px;
+    overflow-x: hidden;
 }
 
 .menuButton{
