@@ -5,8 +5,11 @@
 p{
     width: fit-content;
 }
-body{
+.bod{
     overflow-x: hidden;
+}
+body{
+   
 }
 
 nav{
