@@ -170,7 +170,7 @@ font-family: 'Caveat Brush', cursive;
         transform: translateX(50px);
     }
     .im{
-       width: 450px;
+       width: 350px;
     }
     .title{
         font-size: 50px;
@@ -185,7 +185,7 @@ font-family: 'Caveat Brush', cursive;
     }
 
     nav{
-        height: 12vh;
+        height: 9vh;
     }
     .text{
         display: flex;
@@ -196,7 +196,7 @@ font-family: 'Caveat Brush', cursive;
         
     }
     nav h1{
-        font-size: 3vh;
+        font-size: 4vh;
     }
     
     .menuUl{
@@ -210,7 +210,7 @@ font-family: 'Caveat Brush', cursive;
         position: absolute;
         align-items: center;
         right: 0px;
-        top:11vh;
+        top:9vh;
         background-color: rgb(4, 21, 37);
         z-index: -2;
         transition: all 0.3s;
