@@ -207,7 +207,7 @@ font-family: 'Caveat Brush', cursive;
         flex-direction: column;
         justify-content: space-around;
         width: 300px;
-        height: 90vh;
+        height: 92vh;
         position: absolute;
         align-items: center;
         right: 0px;
@@ -235,7 +235,7 @@ font-family: 'Caveat Brush', cursive;
         width: 100%;
     }
     .nav-active{
-        transform: translateX(0%);
+        transform: translateX(5%);
     }
     .toggle .line1{
         transform: rotate(45deg) translate(7px,8px);
