@@ -185,7 +185,7 @@ font-family: 'Caveat Brush', cursive;
     }
 
     nav{
-        height: 9vh;
+        height: 12vh;
     }
     .text{
         display: flex;
@@ -210,7 +210,7 @@ font-family: 'Caveat Brush', cursive;
         position: absolute;
         align-items: center;
         right: 0px;
-        top:7vh;
+        top:11vh;
         background-color: rgb(4, 21, 37);
         z-index: -2;
         transition: all 0.3s;
