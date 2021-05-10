@@ -19,7 +19,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
     height: 8vh;
-    position:absolute ;
+    position:sticky ;
     width: 100%;
     padding: 1px;
 }
