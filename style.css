@@ -211,7 +211,7 @@ font-family: 'Caveat Brush', cursive;
         position: absolute;
         align-items: center;
         right: 0px;
-        top:10vh;
+        top:8vh;
         background-color: rgb(4, 21, 37);
         z-index: -2;
         transition: all 0.3s;
