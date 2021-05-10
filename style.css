@@ -43,7 +43,7 @@ nav{
     background-color: white;
 }
 nav h1{
-    font-size: 30spx;
+    font-size: 40px;
 }
 
 .menuUl{
@@ -163,6 +163,10 @@ font-family: 'Caveat Brush', cursive;
     }
 
 @media screen and (max-width: 680px) {
+    nav h1{
+    font-size: 30spx;
+}
+
     .menuUl li{
         opacity: 0;
         transform: translateX(50px);
@@ -179,7 +183,7 @@ font-family: 'Caveat Brush', cursive;
         grid-column: span 2;
     }
     .right, .left{
-        width: 400px;
+        width: 300px;
     }
 
     nav{
